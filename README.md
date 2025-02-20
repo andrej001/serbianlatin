@@ -69,7 +69,7 @@ https://superuser.com/questions/1209126/windows-10-croatian-keyboard-with-qwerty
 Autor: Andrej Rajkov
 GitHub: https://github.com/andrej001
 
-Ovaj paket je eksperimentalan, i iako ne bi trebao da ošteti vaš uređaj, povedite računa.
+Ovaj paket je eksperimentalan.
 
 Za slučaj da paket ne radi kao očekivano, ovo je proces deinstalacije:
 https://superuser.com/questions/27799/how-to-delete-a-custom-keyboard-layout-in-windows
